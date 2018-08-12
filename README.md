@@ -1,8 +1,7 @@
 # HammingCode-Ti84
 Hamming(7,4) Code encryption and decryption using Ti-84
 Note: All code is written for Ti-84, all files require Ti Connect to deply to an actual device
-This project was inspired by JHU-CTY's Advance Cryptology Course taught by Dr. David Perry, a cryptologic 
-mathematician at the National Security Agency. Since CE files are not supported by Git Hub for showing code both 
+Since CE files are not supported by Git Hub for showing code both 
 programs are displayed below: (some characters are not supported on github)
 
 HC74E.8xp //Encryption Algorithm
